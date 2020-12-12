@@ -11,9 +11,14 @@
     "scrollbar",
     "css"
   ],
+  "repository": "psophea/ps-scrollbar-tailwind",
   "author": "Sophea Pov <pov.sophea3@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "tailwindcss": "^2.0.2"
+  },
+  "homepage": "https://github.com/psophea/ps-scrollbar-tailwind",
+  "engines": {
+    "node": ">=10.0.0"
   }
 }
