@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+demo/node_modules/
+demo/dist/
+demo/elm-stuff/
+demo/.cache/
+demo/tmp/
+demo/src/Tailwind/
+demo/package-lock.json
