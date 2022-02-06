@@ -46,7 +46,7 @@ scrollbar-width-{spacing}: width of scrollbar
 scrollbar-track-{color}: color of track/bar
 scrollbar-thumb-{color}: color of thumb/handle
 scrollbar-track-radius-{borderRadius}: border radius of track/bar
-scrollbar-thumb-{color}: border radius of thumb/handle
+scrollbar-thumb-radius-{borderRadius}: border radius of thumb/handle
 
 then there are variants for above properties such as: hover, color, x, y
 
